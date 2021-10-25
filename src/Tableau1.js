@@ -18,6 +18,8 @@ class Tableau1 extends Phaser.Scene{
         this.load.image('gMid', 'assets/level/ground/g-mid.png');
         this.load.image('gRight', 'assets/level/ground/g-right.png');
         this.load.image('gTree1', 'assets/level/ground/g-tree-1.png');
+        this.load.image('gMushroom1', 'assets/level/ground/g-mushroom1.png');
+        this.load.image('gTree3', 'assets/level/ground/g-tree-3.png');
 
         //au lieu d'écrire 5 lignes quasi identiques, on charge l'herbe avec une boucle
         // ALGO : ceci est une boucle
@@ -100,7 +102,7 @@ class Tableau1 extends Phaser.Scene{
          * @type {Phaser.GameObjects.Image}
          */
         let tree1=this.add.image(300,350, 'gTree1').setOrigin(0,1);
-        tree1.setTintFill(0xFF0000); // pratique pour dbugger
+        //tree1.setTintFill(#000000); // pratique pour dbugger
         this.groundContainer.add(tree1);
         /**
          * Terrain 1
@@ -109,6 +111,12 @@ class Tableau1 extends Phaser.Scene{
         //ici on va calculer les positions
         let gMid1=this.add.image(0,350, 'gMid').setOrigin(0,0);
         this.groundContainer.add(gMid1);
+
+        let gMushroom1=this.add.image(200,280, 'gMushroom1').setOrigin(0,0);
+        this.groundContainer.add(gMushroom1);
+
+        let gTree3=this.add.image(50,-100, 'gTree3').setOrigin(0,0);
+        this.groundContainer.add(gTree3);
         /**
          * Terrain 2
          * @type {Phaser.GameObjects.Image}
