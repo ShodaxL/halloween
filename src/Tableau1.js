@@ -21,17 +21,19 @@ class Tableau1 extends Phaser.Scene{
 
         //au lieu d'écrire 5 lignes quasi identiques, on charge l'herbe avec une boucle
         // ALGO : ceci est une boucle
-        for(let i=1;i<=5;i++){
+        for(let i=1;i<=3;i++){
             this.load.image('g-grass-'+i, 'assets/level/ground/g-grass-'+i+'.png');
         }
 
         //filtre film TODO élève : faire une boucle à la place des 3 lignes qui suivent
-        this.load.image('filterFilm1', 'assets/level/filters/film/frame-1.png');
-        this.load.image('filterFilm2', 'assets/level/filters/film/frame-2.png');
-        this.load.image('filterFilm3', 'assets/level/filters/film/frame-3.png');
-
+        for(let i=1;i<=3;i++){
+            this.load.image('filterFilm'+i, 'assets/level/filters/film/frame-'+i+'.png');
+        }
         //texture au fond  TODO élève : faire une boucle pour charger les 3 images et démontrer par la même que vous savez aller au plus simple
-        this.load.image('bg-animation-a', 'assets/level/background-2/bg-animation/bg-animation-a.png');
+        for(let i=1;i<=3;i++) {
+            this.load.image('bg-animation-'+i, 'assets/level/background-2/bg-animation/bg-animation-'+i+'.png');
+
+        }
 
     }
 
@@ -40,13 +42,14 @@ class Tableau1 extends Phaser.Scene{
      * TODO élèves : reproduire à l'identique assets/level/00-preview-example/sample1.jpg
      * TODO élèves : plus tard, continuez le décor vers la droite en vous servant des assets mis à votre disposition
      */
+
     create(){
 
         /**
          * Fond très clair avec une trame
          * @type {Phaser.GameObjects.Sprite}
          */
-        let bgAnimationA=this.add.sprite(0,0, 'bg-animation-a').setOrigin(0,0);
+        let bgAnimationA=this.add.sprite(0,0, 'bg-animation-1').setOrigin(0,0);
 
         //--------------background 2 (tout au fond et flou)--------------------
 
@@ -69,6 +72,7 @@ class Tableau1 extends Phaser.Scene{
         let bg2Tree2=this.add.image(400,-50, 'bg2-tree-2').setOrigin(0,0);
         this.bg2Container.add(bg2Tree2);
         bg2Tree2.angle=-5; //pencher l'arbre de -5 degrès
+
 
         //--------------background 1 (gris) --------------------
 
