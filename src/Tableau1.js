@@ -51,7 +51,7 @@ class Tableau1 extends Phaser.Scene{
 
         }
         for(let i=1;i<=3;i++){
-            this.load.image('filterBloody'+i, 'assets/level/filters/bloody/frame'+i+'.png');
+            this.load.image('weatherRain'+i, 'assets/level/weather/rain/frame'+i+'.png');
         }
     }
 
@@ -218,6 +218,7 @@ class Tableau1 extends Phaser.Scene{
          * @type {Phaser.GameObjects.Sprite}
          */
 
+
         this.filterBloody = this.add.sprite(0, 0, 'filterBloody1').setOrigin(0,0);
         //animation de 3 images
         this.anims.create({
@@ -232,11 +233,23 @@ class Tableau1 extends Phaser.Scene{
             frameRate: 16,
             repeat: -1
         });
-        this.filterBloody.play('bloody');
+
 
         //TODO élève faire une animation du même genre que filter mais pour bgAnimationA
+        this.weatherRain = this.add.sprite(0, 0, 'weatherRain1').setOrigin(0,0);
+        //animation de 3 images
+        this.anims.create({
+            key: 'rain',
+            frames: [
+                {key:'weatherRain1'},
+                {key:'weatherRain2'},
+                {key:'weatherRain3'},
+            ],
+            frameRate: 16,
+            repeat: -1
+        });
 
-        //gestion du parallaxe
+                //gestion du parallaxe
         /**
          * Vitesse de déplacement du décor
          * @type {number}
@@ -249,6 +262,7 @@ class Tableau1 extends Phaser.Scene{
         //définit à quelles vitesse se déplacent nos différents plans
         bgAnimationA.scrollFactorX=0;
         this.filterBloody.scrollFactorX=0;
+        this.weatherRain.scrollFactorX=0;
         this.bg2Container.scrollFactorX=0.2;
         this.bg1Container.scrollFactorX=0.4;
         this.groundContainer.scrollFactorX=1;
@@ -292,6 +306,7 @@ class Tableau1 extends Phaser.Scene{
 
         //petit effet de vibrance sur le filtre film au tout premier plan
         this.filterBloody.setAlpha(Phaser.Math.Between(95,100)/100)
+        this.weatherRain.setAlpha(Phaser.Math.Between(95,100)/100)
     }
 
 
