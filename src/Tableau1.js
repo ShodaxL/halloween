@@ -6,11 +6,11 @@ class Tableau1 extends Phaser.Scene{
     /**
      * Précharge les assets
      */
-    preload(){
+    preload() {
         //bg 2 (tout au fond et très flou)
         this.load.image('bg2-terrain-2', 'assets/level/background-2/bg2-terrain-2.png');
         this.load.image('bg2-tree-2', 'assets/level/background-2/bg2-tree-2.png');
-        this.load.image('bg2terrain1' , 'assets/level/background-2/bg2-terrain-1.png');
+        this.load.image('bg2terrain1', 'assets/level/background-2/bg2-terrain-1.png');
 
         //bg 1 (gris légèrement flou)
         this.load.image('bg1-terrain-3', 'assets/level/background-1/bg-terrain-3.png');
@@ -22,35 +22,37 @@ class Tableau1 extends Phaser.Scene{
         this.load.image('gTree1', 'assets/level/ground/g-tree-1.png');
         this.load.image('gMushroom1', 'assets/level/ground/g-mushroom1.png');
         this.load.image('gTree3', 'assets/level/ground/g-tree-3.png');
-        this.load.image('gWoodenbridge' , 'assets/level/ground/g-wooden-bridge.png');
-        this.load.image('gStone2' , 'assets/level/ground/g-stone-2.png');
-        this.load.image('gWater' , 'assets/level/ground/g-water.png');
-        this.load.image('gBox2' , 'assets/level/ground/g-box-2.png');
-        this.load.image('gLeft' , 'assets/level/ground/g-left.png');
-        this.load.image('gStone4' , 'assets/level/ground/g-stone-4.png');
+        this.load.image('gWoodenbridge', 'assets/level/ground/g-wooden-bridge.png');
+        this.load.image('gStone2', 'assets/level/ground/g-stone-2.png');
+        this.load.image('gWater', 'assets/level/ground/g-water.png');
+        this.load.image('gBox2', 'assets/level/ground/g-box-2.png');
+        this.load.image('gLeft', 'assets/level/ground/g-left.png');
+        this.load.image('gStone4', 'assets/level/ground/g-stone-4.png');
         this.load.image('gTree', 'assets/level/ground/g-tree-1.png');
         this.load.image('gStone5', 'assets/level/ground/g-stone-5.png');
         this.load.image('gRight', 'assets/level/ground/g-right.png');
         this.load.image('gFellentree1', 'assets/level/ground/g-fellen-tree-1.png');
-        this.load.image('gLeft1' , 'assets/level/ground/g-left.png');
+        this.load.image('gLeft1', 'assets/level/ground/g-left.png');
 
 
         //au lieu d'écrire 5 lignes quasi identiques, on charge l'herbe avec une boucle
         // ALGO : ceci est une boucle
-        for(let i=1;i<=3;i++){
-            this.load.image('g-grass-'+i, 'assets/level/ground/g-grass-'+i+'.png');
+        for (let i = 1; i <= 3; i++) {
+            this.load.image('g-grass-' + i, 'assets/level/ground/g-grass-' + i + '.png');
         }
 
         //filtre film TODO élève : faire une boucle à la place des 3 lignes qui suivent
+        for (let i = 1; i <= 3; i++) {
+            this.load.image('filterBloody' + i, 'assets/level/filters/bloody/frame' + i + '.png');
+        }
+        //texture au fond  TODO élève : faire une boucle pour charger les 3 images et démontrer par la même que vous savez aller au plus simple
+        for (let i = 1; i <= 3; i++) {
+            this.load.image('bg-animation-' + i, 'assets/level/background-2/bg-animation/bg-animation-' + i + '.png');
+
+        }
         for(let i=1;i<=3;i++){
             this.load.image('filterBloody'+i, 'assets/level/filters/bloody/frame'+i+'.png');
         }
-        //texture au fond  TODO élève : faire une boucle pour charger les 3 images et démontrer par la même que vous savez aller au plus simple
-        for(let i=1;i<=3;i++) {
-            this.load.image('bg-animation-'+i, 'assets/level/background-2/bg-animation/bg-animation-'+i+'.png');
-
-        }
-
     }
 
     /**
@@ -173,8 +175,9 @@ class Tableau1 extends Phaser.Scene{
         this.groundContainer.add(gFellentree1);
         gFellentree1.angle=5
 
-        let gLeft1=this.add.image(2050,390, 'gLeft1').setOrigin(0,0).setScale(2,1);
+        let gLeft1=this.add.image(2050,390, 'gLeft1').setOrigin(0,0).setScale(3,1);
         this.groundContainer.add(gLeft1);
+
 
 
 
