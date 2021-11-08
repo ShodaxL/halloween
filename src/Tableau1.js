@@ -175,7 +175,7 @@ class Tableau1 extends Phaser.Scene{
         this.groundContainer.add(gFellentree1);
         gFellentree1.angle=5
 
-        let gLeft1=this.add.image(2050,390, 'gLeft1').setOrigin(0,0).setScale(3,1);
+        let gLeft1=this.add.image(2050,390, 'gLeft1').setOrigin(0,0).setScale(4,1);
         this.groundContainer.add(gLeft1);
 
 
