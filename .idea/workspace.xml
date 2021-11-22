@@ -2,6 +2,625 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b623ecf-1c6d-4dd9-a5b1-9b886dbd8f55" name="Changes" comment="v1,4">
+      <change afterPath="$PROJECT_DIR$/Characters/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/.idea/Characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/climb_rope/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/die/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/fall/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/fall/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/fall/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/fall/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/fall/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/idle2/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/jump/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/jump/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/jump/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/jump/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/jump/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/pull/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/push/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/shoot/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/slide/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/slide/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/slide/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/slide/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/slide/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_1/PNG/walk/walk9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/climb_rope/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/die/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/fall/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/fall/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/fall/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/fall/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/fall/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/idle2/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/jump/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/jump/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/jump/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/jump/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/jump/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/pull/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/push/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/shoot/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/slide/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/slide/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/slide/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/slide/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/slide/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_2/PNG/walk/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/climb_rope/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/fall/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/fall/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/fall/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/fall/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/fall/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/idle2/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/jump/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/jump/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/jump/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/jump/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/jump/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/pull/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/push/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/shoot/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/slide/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/slide/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/slide/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/slide/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/slide/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_3/PNG/walk/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/climb_rope/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/fall/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/fall/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/fall/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/fall/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/fall/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/idle2/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/jump/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/jump/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/jump/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/jump/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/jump/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/pull/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/push/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/shoot/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/slide/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/slide/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/slide/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/slide/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/slide/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_4/PNG/walk/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/climb_rope/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/die/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/fall/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/fall/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/fall/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/fall/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/fall/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/idle2/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/jump/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/jump/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/jump/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/jump/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/jump/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/pull/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/push/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/shoot/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/slide/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/slide/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/slide/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/slide/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/slide/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/boy/boy_style_5/PNG/walk/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/attack/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/die/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/fall/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/fall/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/fall/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/fall/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/fall/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/fall/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/idle/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/jump/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 1/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/attack/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/die/Layer-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/idle/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/idle/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/idle/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/idle/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/idle/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/enemy 2/PNG/run/Layer-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/close/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/close/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/close/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/open/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/open/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/open/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/open/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 1/PNG/open/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/close/Layer-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/idle/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/open/Layer-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/open/Layer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/open/Layer-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/open/Layer-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Characters/trap 2/PNG/open/Layer-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/halloween.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/halloween.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_11_2021_13_32_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_11_2021_13_32__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tableau1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tableau1.js" afterDir="false" />
     </list>
@@ -22,8 +641,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Characters" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GAME1\Documents\GitHub\halloween\assets\level\background-2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,6 +659,8 @@
       <option name="presentableId" value="Default" />
       <updated>1635160681857</updated>
       <workItem from="1635160683558" duration="8770000" />
+      <workItem from="1637583943266" duration="47000" />
+      <workItem from="1637584074183" duration="7528000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <created>1635160890065</created>
@@ -119,7 +746,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636382028127</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="v1,4">
+      <created>1636383273405</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1636383273405</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
