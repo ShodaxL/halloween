@@ -8,18 +8,18 @@ class Tableau1 extends Phaser.Scene{
      */
     preload() {
 
-        this.load.image('voiture-1', '![](../assets/level/car.png)');
+        this.load.image('voiture-1', 'assets/level/car.png');
 
 
-        this.load.image('drawing', '![](../assets/level/fond-de-jeu-de-ferme.jpg)');
+        this.load.image('drawing', 'assets/level/fond-de-jeu-de-ferme.jpg');
     }
     create(){
 
 
-        let voiture = this.add.image(200, 200, 'voiture-1').setOrigin(0, 0);
+        let voiture = this.add.image(300, 200, 'voiture-1').setOrigin(0, 0);
         this.groundContainer.add(voiture-1);
 
-        let drawing = this.add.image(200, 200, 'drawing').setOrigin(0, 0);
+        let drawing = this.add.image(300, 200, 'drawing').setOrigin(0, 1);
         this.groundContainer.add(drawing);
 
             this.speed=0;
@@ -48,7 +48,7 @@ class Tableau1 extends Phaser.Scene{
             switch (kevent.keyCode)
             {
                 case Phaser.Input.Keyboard.KeyCodes.RIGHT:
-                    me.speed=2;
+                    me.speed=10;
                     break;
                 case Phaser.Input.Keyboard.KeyCodes.LEFT:
                     me.speed=-2;
